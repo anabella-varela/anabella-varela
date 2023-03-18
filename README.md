@@ -23,13 +23,18 @@
   ![TABLEAU](https://img.shields.io/badge/Visualization-Tableau-orange?style=plastic&)
   ![Python](http://img.shields.io/badge/Language-Python-blue?style=plastic&)
 
-## Education
+  
+### Education 📃
+  
 - Ph.D. in Biology,  Universidad Nacional de Cuyo; Argentina
 - M.Sc. in Viticulture and Marketing, Università degli Studi di Udine, Italy
 - B.Sc. in Agriculture, Universidad Nacional de Cuyo; Argentina
+-->
 
-
-  
+</details>
+<p align='left'>
+  📫 How to reach me: <a href='mailto:anabellava@gmail.com'>anabellava@gmail.com</a>
+</p>
 
   
 
