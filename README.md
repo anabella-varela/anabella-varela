@@ -13,15 +13,15 @@
 - Statistical Analysis: Exploratory data analysis, ANOVA, Regression Analysis
   - My every day tools >
   
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=plastic&)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=plastic&)
+![GitHub](https://img.shields.io/badge/-GitHub-blue?style=plastic&)
+![VS Code](http://img.shields.io/badge/-VS%20Code-blue?style=plastic&)
+![Powershell](http://img.shields.io/badge/-Powershell-blue?style=plastic&)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-blue?style=plastic&)
 
  - What I will learn next > 
  
-  ![TABLEAU](https://img.shields.io/badge/-Tableau-E97627?style=plastic&)
-  ![Python](http://img.shields.io/badge/-Python-3776AB??style=plastic&)
+  ![TABLEAU](https://img.shields.io/badge/Visualization-Tableau-orange?style=plastic&)
+  ![Python](http://img.shields.io/badge/Language-Python-blue?style=plastic&)
 
 ## Education
 - Ph.D. in Biology,  Universidad Nacional de Cuyo; Argentina
