@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I'm an agronomic engineer and hold a Ph.D. in biology with expertise in molecular biology.
-- 💻 I'm currently learning SQL and data analysis techniques to expand my skillset.
+- 💻 I'm currently learning Python and SQL to expand my skillset.
 - 🔍 I'm looking for a remote job as a data analyst, where I can utilize my biological expertise and analytical skills to solve real-world problems.
  
 
