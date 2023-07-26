@@ -33,7 +33,9 @@
 
 </details>
 <p align='left'>
-  📫 How to reach me: <a href='mailto:anabellava@gmail.com'>anabellava@gmail.com</a>
+
+- 📫 How to reach me: <a href='mailto:anabellava@gmail.com'>anabellava@gmail.com</a>
+- [Linkedin](www.linkedin.com/in/anabella-varela-phd)
 </p>
 
   
