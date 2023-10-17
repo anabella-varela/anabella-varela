@@ -11,8 +11,9 @@
 
 
 ### Technical Skills at the moment 🛠 
+- Data visualization: Tableau
 - Programming Languages: R
-- Data Analysis Tools: Postgres, SQL, Excel
+- Data Analysis Tools: Excel, SQL,
 - Statistical Analysis: Exploratory data analysis, ANOVA, Regression Analysis
   - My every day tools >
   
@@ -23,7 +24,7 @@
 
  - What I will learn next > 
  
-  ![TABLEAU](https://img.shields.io/badge/Visualization-Tableau-orange?style=plastic&)
+  ![PowerBi](https://img.shields.io/badge/Visualization-PowerBi-orange?style=plastic&)
   ![Python](http://img.shields.io/badge/Language-Python-blue?style=plastic&)
 
   
