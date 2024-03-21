@@ -5,15 +5,15 @@
 
 - 🌱 I'm an agronomic engineer and hold a Ph.D. in Biology with expertise in molecular biology.
 - 💻 I'm currently learning Python and SQL to expand my skillset.
-- 🔍 I'm looking for a remote job as a data analyst, where I can utilize my biological expertise and analytical skills to solve real-world problems.
+- 🔍 Now I am working remotely at an amazing SaaS company as an Analytic Services analyst
 
 
 
 
 ### Technical Skills at the moment 🛠 
-- Data visualization: Tableau
-- Programming Languages: R
-- Data Analysis Tools: Excel, SQL,
+- Data visualization: Tableau, PowerBi
+- Programming Languages: R, Python, SQL
+- Data Analysis Tools: Excel
 - Statistical Analysis: Exploratory data analysis, ANOVA, Regression Analysis
   - My every day tools >
   
@@ -22,10 +22,6 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-blue?style=plastic&)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-blue?style=plastic&)
 
- - What I will learn next > 
- 
-  ![PowerBi](https://img.shields.io/badge/Visualization-PowerBi-orange?style=plastic&)
-  ![Python](http://img.shields.io/badge/Language-Python-blue?style=plastic&)
 
   
 ### Education 📃
